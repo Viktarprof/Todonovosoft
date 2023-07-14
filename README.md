@@ -5,7 +5,6 @@ All tasks are stored in the Redux store and also in the browser's local storage 
 
 The project is based on using React, Redux, and CSS styles to create the user interface. It follows a modular component structure for convenient separation of functionality and code reusability.
 
-Please note that the original text you provided is already in English.
 
 ![screenApp](./screenApp.png)
 ![scheme](./scheme.png)
