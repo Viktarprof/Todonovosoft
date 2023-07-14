@@ -1,0 +1,29 @@
+.task{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    border: 1px solid black;
+    border-radius: 10px;
+
+    padding: 10px;
+
+    font-size: 20px;
+}
+p{
+    width: 100px;
+    text-align: justify;
+    word-wrap: break-word;
+    cursor: text;
+}
+
+@media (max-width: 900px) {
+    .task{
+        width: 70%;
+        justify-content: space-around
+    }
+    p{
+        width: 50%;
+    }
+}

@@ -1,0 +1,38 @@
+button{
+    cursor: pointer;
+}
+.btnAdd{
+    width: 150px;
+    height: 20px;
+    
+    background-color: darkorange;
+    color: var(--btnColor);
+
+    border: none;
+    border-radius: 20px;
+}
+.btnClose{
+    width: 30px;
+    height: 30px;
+
+    color: var(--btnColor);
+    background-color: var(--btnClose);
+    border: none;
+    border-radius: 50%;
+}
+.btnDone{
+    width: 70px;
+    padding: 10px;
+    color: var(--btnColor);
+    background-color: var(--btnDone);
+    border: none;
+    border-radius: 5px;
+}
+
+@media (max-width: 900px) {
+    .btnAdd{
+        width: 50%;
+        height: 40px;
+        font-size: 20px;
+    }
+}
