@@ -20,10 +20,19 @@ p{
 
 @media (max-width: 900px) {
     .task{
-        width: 70%;
+        width: 90%;
         justify-content: space-around
     }
     p{
         width: 50%;
+        text-align: center;
+    }
+    p:hover{
+       font-size: 25px;
+    }
+}
+@media (max-width: 500px) {
+    p{
+        text-align: center;
     }
 }
