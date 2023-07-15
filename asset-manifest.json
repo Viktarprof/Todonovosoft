@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Todonovosoft/static/css/main.969babd9.css",
+    "main.css": "/Todonovosoft/static/css/main.b99d4e04.css",
     "main.js": "/Todonovosoft/static/js/main.ee87e72a.js",
     "index.html": "/Todonovosoft/index.html",
-    "main.969babd9.css.map": "/Todonovosoft/static/css/main.969babd9.css.map",
+    "main.b99d4e04.css.map": "/Todonovosoft/static/css/main.b99d4e04.css.map",
     "main.ee87e72a.js.map": "/Todonovosoft/static/js/main.ee87e72a.js.map"
   },
   "entrypoints": [
-    "static/css/main.969babd9.css",
+    "static/css/main.b99d4e04.css",
     "static/js/main.ee87e72a.js"
   ]
 }
